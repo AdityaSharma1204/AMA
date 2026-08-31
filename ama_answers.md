@@ -30,19 +30,19 @@ The "S" in SOLID stands for the Single Responsibility Principle. It states that 
 
 ## 8. What is a semantic tag in HTML?
 
-A semantic tag clearly describes the meaning and purpose of its content. Examples include <header>, <nav>, <article>, <section>, and <footer>. Semantic tags make HTML easier to understand and improve accessibility and search engine optimization.
+A semantic tag clearly describes the meaning and purpose of its content. Examples include &lt;header&gt;, &lt;nav&gt;, &lt;article&gt;, &lt;section&gt;, and &lt;footer&gt;. Semantic tags make the HTML structure easier to understand and improve accessibility and search engine optimization.
 
-## 9. What is the purpose of the <div> tag in HTML?
+## 9. What is the purpose of the &lt;div&gt; tag in HTML?
 
-The <div> tag is a generic container used to group HTML elements. It does not have any special meaning by itself. It is commonly used to organize page sections and apply CSS styles or JavaScript functionality to a group of elements.
+The &lt;div&gt; tag is a general-purpose container used to group HTML elements. It does not provide any specific meaning to the content. It is mainly used to organize webpage sections and apply CSS styles or JavaScript functionality to a group of elements.
 
 ## 10. What are the different types of lists in HTML?
 
 HTML provides three main types of lists:
 
-1. Ordered list, using <ol>, displays items in a specific order.
-2. Unordered list, using <ul>, displays items with bullet points.
-3. Description list, using <dl>, displays terms and their descriptions.
+1. Ordered list, using &lt;ol&gt;, displays items in a specific order.
+2. Unordered list, using &lt;ul&gt;, displays items with bullet points.
+3. Description list, using &lt;dl&gt;, displays terms along with their descriptions.
 
 ## 11. What is the full form of HTML?
 

@@ -8,21 +8,21 @@ Inheritance is an OOP concept where one class gets the properties and methods of
 
 Magic methods are special methods in Python that start and end with double underscores. They are automatically called for specific operations. For example, __init__() is called when an object is created, and __str__() is used to define how an object is represented as a string.
 
-## 3. What is the difference between the <strong> tag and the <b> tag?
+## 3. What is the difference between the &lt;strong&gt; tag and the &lt;b&gt; tag?
 
-The <strong> tag shows that the text is important and usually displays it in bold. The <b> tag only makes the text visually bold without giving it special importance. Therefore, <strong> provides semantic meaning, while <b> is mainly used for visual styling.
+The &lt;strong&gt; tag indicates that the text is important and is usually displayed in bold. The &lt;b&gt; tag only makes the text visually bold without adding any special importance. Therefore, &lt;strong&gt; provides semantic meaning, while &lt;b&gt; is mainly used for visual styling.
 
 ## 4. What is the difference between the WHERE and HAVING clauses in SQL?
 
-The WHERE clause filters individual rows before grouping or aggregation. The HAVING clause filters groups after GROUP BY and is commonly used with aggregate functions such as COUNT(), SUM(), and AVG(). Therefore, WHERE filters rows, while HAVING filters groups.
+The WHERE clause filters individual rows before grouping and aggregation. The HAVING clause filters groups after the GROUP BY clause. WHERE is used to filter rows, while HAVING is mainly used to filter grouped results based on conditions involving aggregate functions.
 
 ## 5. What is an inline-block element in CSS?
 
-An inline-block element behaves like an inline element but allows properties such as width, height, margin, and padding to be applied. Multiple inline-block elements can appear on the same line. It is useful when elements need to stay in a row while having specific dimensions.
+An inline-block element behaves like an inline element but allows properties such as width and height to be applied. Multiple inline-block elements can appear on the same line. It is useful when elements need to stay in a row while also having specific dimensions.
 
 ## 6. What is an HTML tag?
 
-An HTML tag is a keyword used to define and structure content on a web page. Tags are usually written inside angle brackets, such as <p> for a paragraph and <h1> for a heading. HTML tags tell the browser how different parts of a webpage should be structured.
+An HTML tag is a keyword written inside angle brackets that defines the structure and meaning of content on a webpage. Examples include &lt;p&gt; for paragraphs and &lt;h1&gt; for headings. HTML tags help the browser understand and display webpage content correctly.
 
 ## 7. What does the "S" in SOLID stand for?
 
